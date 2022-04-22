@@ -1,5 +1,4 @@
 
-
 *{
     margin: 0;
     padding: 0;
@@ -8,16 +7,17 @@
 
 body {
     font-family: "cairo"  , sans-serif;
-   background-color: rgb(243, 245, 243);
-  
+    background-color: rgb(243, 245, 243);
+ 
 }
 
 
 .lorem {
      
-    width: 90vw;
-     margin: 0 auto;
-
+    width: 50vw;
+    margin: 0 auto;
+    background-color: rgb(247, 245, 245);
+  
 }
  
 
@@ -53,6 +53,7 @@ font-size: 23px;
     background-color: rgb(177, 175, 175);
     padding: 10px ;
     border-radius: 4px;
+cursor: pointer;
 
 
 }
@@ -70,11 +71,4 @@ font-size: 23px;
    margin: 30px;
 
 }
-
-
-@media  screen and (min-width : 400px) {
-    
-
-}
-
 
