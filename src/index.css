@@ -1,0 +1,80 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "cairo"  , sans-serif;
+   background-color: rgb(243, 245, 243);
+  
+}
+
+
+.lorem {
+     
+    width: 90vw;
+     margin: 0 auto;
+
+}
+ 
+
+h2 {
+    color: rgb(126, 121, 115);
+    font: 30px;
+    text-align: center;
+    margin: 30px;
+   
+}
+
+
+input[type = "number"] {
+    width: 70px;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    margin: 10px;
+    outline: none;
+
+}
+
+label {
+font-size: 23px;
+}
+
+.form {
+    margin: 30px 0 ;
+    text-align: center;
+}
+.btn {
+    border: none;
+    background-color: rgb(177, 175, 175);
+    padding: 10px ;
+    border-radius: 4px;
+
+
+}
+
+.lorem-text {
+    display: block;
+    text-align: center;
+    color: rgb(99, 122, 122);
+     margin: 10px;
+ 
+    
+}
+
+.text {
+   margin: 30px;
+
+}
+
+
+@media  screen and (min-width : 400px) {
+    
+
+}
+
+
